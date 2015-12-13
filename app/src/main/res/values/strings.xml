@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geofence</string>
+    <string name="geofence_transition_invalid_type">Invalid transition type</string>
+</resources>
